@@ -55,7 +55,7 @@ const services: TService[] = [
     icon: web,
   },
   {
-    title: "Smart Contract Specialist Developer",
+    title: "SmartContract Specialist Developer",
     icon: mobile,
   },
   {
