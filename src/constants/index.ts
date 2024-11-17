@@ -186,27 +186,27 @@ const experiences: TExperience[] = [
 const testimonials: TTestimonial[] = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Akira proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Alex proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
-    company: "Acme Co",
+    company: "Coinweb",
     image: "https://randomuser.me/api/portraits/women/3.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Akira does.",
+      "I've never met a web developer who truly cares about their clients' success like Alex does.",
     name: "Chris Brown",
     designation: "COO",
-    company: "DEF Corp",
+    company: "Sony's BRL",
     image: "https://randomuser.me/api/portraits/men/9.jpg",
   },
   {
     testimonial:
-      "After Akira optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Alex optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/8.jpg",
+    company: "Groth DEFI",
+    image: "https://randomuser.me/api/portraits/women/2.jpg",
   },
 ];
 
@@ -217,20 +217,20 @@ const projects: TProject[] = [
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
       {
-        name: "react",
+        name: "NFT",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "web3",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "react.js",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    sourceCodeLink: "https://github.com/BlueUnicorn0805/Goodcar-Rent",
+    sourceCodeLink: "https://github.com/",
   },
   {
     name: "Job IT",
