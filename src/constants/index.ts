@@ -187,14 +187,14 @@ const testimonials: TTestimonial[] = [
   {
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Alex proved me wrong.",
-    name: "Sara Lee",
+    name: "Grace Williams",
     designation: "CFO",
     company: "Coinweb",
     image: "https://randomuser.me/api/portraits/women/3.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Alex does.",
+      "I've never met a web3 developer who truly cares about their clients' success like Alex does.",
     name: "Chris Brown",
     designation: "COO",
     company: "Sony's BRL",
@@ -202,11 +202,19 @@ const testimonials: TTestimonial[] = [
   },
   {
     testimonial:
-      "After Alex optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Alex optimized our contracts, our traffic increased by 59.8%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "Groth DEFI",
     image: "https://randomuser.me/api/portraits/women/2.jpg",
+  },
+  {
+    testimonial:
+      "Alex is an outstanding blockchain engineer with a deep understanding of both the technical and strategic sides of Web3 development!",
+    name: "Emily Thompson",
+    designation: "CEO",
+    company: "Groth DEFI",
+    image: "https://randomuser.me/api/portraits/men/2.jpg",
   },
 ];
 
