@@ -50,7 +50,7 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className="text-secondary mt-4 max-w-3xl text-[17px] leading-[30px]"
+        className="text-secondary mt-4 max-w-3xl text-[17px] leading-[30px] w-[80%] mx-auto text-center"
       >
         {config.sections.about.content}
       </motion.p>
