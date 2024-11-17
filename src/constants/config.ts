@@ -67,12 +67,9 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and JavaScript, specializing 
-                in frameworks like React, Node.js, and Three.js.         
-                I also have extensive experience converting Figma designs to WordPress/Elementor/Bootstrap, as well as I take the breath.       
-                My skills include SEO, WordPress/WooCommerce, Shopify, Bootstrap, HTML5, CSS3, website speed optimization, and PHP/MySQL.        
-                I'm a fast learner and enjoy working closely with clients to create efficient, scalable, and user-friendly solutions that address real-world problems.
-
+      content: `I’m an experienced Blockchain Engineer with six years of expertise in Web3, specializing in building and scaling blockchain solutions. My strong background in software engineering has been instrumental in driving growth for crypto startups through innovative product development.
+                Proficient in Solidity, Rust, Ethereum, and Layer 2 solutions, I create secure, gas-efficient smart contracts deployed across multiple blockchain networks. I also have extensive experience in DeFi platforms, tokenomics, and liquidity management. I manage complex projects from inception to completion, ensuring high-quality, on-time delivery within budget.
+                My expertise also includes advanced blockchain algorithms, such as Zero-Knowledge Proofs (ZKP), allowing me to build fast, secure, and scalable systems. I am passionate about collaboration, working seamlessly with both technical and non-technical teams, from developers to clients and executives.
                 Let's work together to bring your ideas to life!`
     },
     experience: {
