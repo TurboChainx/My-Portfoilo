@@ -42,11 +42,13 @@ export const config: TConfig = {
   html: {
     title: "Alex Gustav — 3D Portfolio",
     fullName: "Alex Gustav",
-    email: "akira.tech.85@gmail.com",
+    email: "blueunicorn0805@gmial.com",
   },
   hero: {
     name: "Alex Gustav",
-    p: ["I develop 3D visuals, user", "interfaces and web applications"],
+    p: ["I develop Web3 solutions",
+        "secure blockchain smart contracts",
+        "and scalable decentralized applications"],
   },
   contact: {
     p: "Get in touch",
@@ -67,9 +69,13 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I’m an experienced Blockchain Engineer with six years of expertise in Web3, specializing in building and scaling blockchain solutions. My strong background in software engineering has been instrumental in driving growth for crypto startups through innovative product development.
-                Proficient in Solidity, Rust, Ethereum, and Layer 2 solutions, I create secure, gas-efficient smart contracts deployed across multiple blockchain networks. I also have extensive experience in DeFi platforms, tokenomics, and liquidity management. I manage complex projects from inception to completion, ensuring high-quality, on-time delivery within budget.
-                My expertise also includes advanced blockchain algorithms, such as Zero-Knowledge Proofs (ZKP), allowing me to build fast, secure, and scalable systems. I am passionate about collaboration, working seamlessly with both technical and non-technical teams, from developers to clients and executives.
+      content: `I’m an experienced Blockchain Engineer with above 6 years of expertise in Web3, specializing in building and scaling blockchain solutions.\n
+                My strong background in software engineering has been instrumental in driving growth for crypto startups through innovative product development.\n
+                Proficient in Solidity, Rust, Ethereum, and Layer 2 solutions, I create secure, gas-efficient smart contracts deployed across multiple blockchain networks.\n
+                I also have extensive experience in DeFi platforms, tokenomics, and liquidity management. \n
+                I manage complex projects from inception to completion, ensuring high-quality, on-time delivery within budget.\n
+                My expertise also includes advanced blockchain algorithms, such as Zero-Knowledge Proofs (ZKP), allowing me to build fast, secure, and scalable systems. \n
+                I am passionate about collaboration, working seamlessly with both technical and non-technical teams, from developers to clients and executives. \n
                 Let's work together to bring your ideas to life!`
     },
     experience: {
