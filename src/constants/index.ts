@@ -210,11 +210,11 @@ const testimonials: TTestimonial[] = [
   },
   {
     testimonial:
-      "Alex is an outstanding blockchain engineer with a deep understanding of both the technical and strategic sides of Web3 development!",
+      "He's an exceptional blockchain engineer with deep expertise in both technical and strategic Web3 development.",
     name: "Emily Thompson",
     designation: "CEO",
     company: "Groth DEFI",
-    image: "https://randomuser.me/api/portraits/men/2.jpg",
+    image: "https://randomuser.me/api/portraits/men/8.jpg",
   },
 ];
 
